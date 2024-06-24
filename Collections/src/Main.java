@@ -9,5 +9,6 @@ public class Main{
         AnalysText.countLitters("C:\\JavaDebts\\Collections\\src\\CountLittersText\\Text.txt");
         AnalysText.mostFrequentLitters("C:\\JavaDebts\\Collections\\src\\CountLittersText\\Text.txt");
 
+
     }
 }
